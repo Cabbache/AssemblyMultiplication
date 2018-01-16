@@ -9,7 +9,7 @@ the product to a readable format. Multiplication is performed by
 making an addition loop.
 
 ### Booting ###
-It is bootable, so it can be compiled with NASM to get a .bin
+It is bootable, so it can be assembled with NASM to get a .bin
 to be written to a USB. 
 
 
